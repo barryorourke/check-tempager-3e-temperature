@@ -2,9 +2,6 @@
 ![Go Test](https://github.com/barryorourke/check-tempager-3e-temperature/workflows/Go%20Test/badge.svg)
 ![goreleaser](https://github.com/barryorourke/check-tempager-3e-temperature/workflows/goreleaser/badge.svg)
 
-# Check Plugin Template
-
-## Overview
 # check-tempager-3e-temperature
 
 ## Table of Contents
